@@ -1,0 +1,31 @@
+.card {display: inline-block;
+    justify-content: center;
+    align-items: center;
+    /*flex-flow: column;*/
+    background-color: var(--secondary);
+    /*height: 150px;*/
+    width: 800px;
+    border-radius: 15px;
+    margin: 20px auto;
+}
+
+div.cp {
+    width: 330px;
+    display: inline-block;
+    background-color: var(--bg);
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+div.cs {
+    width: 400px;
+    display: inline-block;
+    margin-left: 30px;
+    justify-content: center;
+    vertical-align:top;
+}
+
+img {
+    width: 350px;
+}
